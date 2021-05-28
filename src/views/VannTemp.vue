@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+      <h1>Dette er vanntemp siden</h1>
+  </div>
 </template>
 
 <script>
